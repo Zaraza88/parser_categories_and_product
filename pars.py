@@ -31,7 +31,6 @@ def view_category():
                 )
             time.sleep(2)
             return view_category() 
-
     return categories[get_url]    
 
 
